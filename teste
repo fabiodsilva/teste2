@@ -1,7 +1,7 @@
 Teste de vazamento de chaves, nem adianta tentar, essa chave não é válida.
 Key exposed test, do not even try, this key is not a valid key.
 
-aws_access_key_id=AKIA4HZE67U64FEYFNU5
-aws_secret_access_key=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
+aws_access_key_id=
+aws_secret_access_key=
 
 :)
